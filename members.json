@@ -7,6 +7,14 @@
     "description": "Backend Developer, passionate to learn how systems work at scale."
   },
   {
+    "name": "Sourish Panda",
+    "github": "https://github.com/t-rexbytes",
+    "linkedin": "https://www.linkedin.com/in/sourish-panda81",
+    "year": "2nd Year",
+    "description": "passionate about open sourcing."
+  },
+  {
+
     "name": "Tubhyam Jain",
     "github": "https://github.com/tubhyam14",
     "linkedin": "https://www.linkedin.com/in/ubhyam-jain-81242637a/",
@@ -21,6 +29,13 @@
     "year": "1st Year",
     "description": "1st year student ,trying to find my interest,exploring every fields"
   }, 
+{
+    "name": "Ayush Singh",
+    "github": "https://github.com/ayushsin9h",
+    "linkedin": "https://www.linkedin.com/in/ayushsin9h/",
+    "year": "3rd Year",
+    "description": "Lead at MSA, interested in Web Development and Machine Learning."
+  },
 
 {
     "name": "Imon Dey",
@@ -70,5 +85,12 @@
     "linkedin": "https://www.linkedin.com/in/prachi-kumari-8b64b9389",
     "year": "1st Year",
     "description": "Learning tech, One day at a time",
+  },
+  {
+    "name": "Purbali Ghosh",
+    "github": "https://github.com/WillowsCosmic",
+    "linkedin": "https://www.linkedin.com/in/purbali-ghosh-791b8633b/",
+    "year": "2nd Year",
+    "description": "Aspiring Full stack web developer,passionate to learn about new technologies"
   }
 ]
